@@ -1,0 +1,1 @@
+Something I’ve learned so far in this course is how to use GitHub effectively. I’ve practiced creating repositories, branches, commits, and pull requests which are essential for collaboration in software development.
